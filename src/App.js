@@ -15,7 +15,7 @@ function App() {
 
    <Manubar></Manubar>
 
-<h1>0</h1>
+{/* <h1>0</h1> */}
 <Test count={count}></Test>
 
     </div>
